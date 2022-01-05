@@ -1,0 +1,10 @@
+h1{
+    font-size: 40px;
+}
+.half-width img{
+    width: 50px;
+    height: 10px;
+}
+.cointainer{
+    display: block;
+}
