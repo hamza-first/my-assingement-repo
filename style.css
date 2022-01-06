@@ -1,10 +1,37 @@
+body{
+    font-family:'Poppins', sans-serif;
+    margin: 0;
+}
 h1{
-    font-size: 40px;
+    color: pink;
+    font-size: 50px;
+}
+.half-width{
+    width: 50%;
+}
+.blank{
+    color: white;
 }
 .half-width img{
-    width: 50px;
-    height: 10px;
+    height: 100%;
+    width: 100%;
+}
+section{
+    display:flex;
+    margin-bottom: 150px;
+    padding: 2px;
+    margin: 5px;
 }
 .cointainer{
-    display: block;
+    display: flex;
+}
+.css{
+    padding: 10px 40px;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(salmon, tomato);
+    border-radius: 5px;
+}
+.heder{
+    background-image: url(images/header-bg.png);
 }
