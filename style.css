@@ -8,6 +8,8 @@ h1{
 }
 .half-width{
     width: 50%;
+    margin: 5px;
+    padding: 2px;
 }
 .blank{
     color: white;
@@ -24,6 +26,8 @@ section{
 }
 .cointainer{
     display: flex;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
 }
 .css{
     padding: 10px 40px;
@@ -34,4 +38,35 @@ section{
 }
 .heder{
     background-image: url(images/header-bg.png);
+    background-repeat:no-repeat ;
+}
+.h{
+    text-align: center;
+    color: pink;
+    font-size: 50px;
+}
+.boost{
+    text-align: center;
+    font-size: 30px;
+}
+.m{
+    text-align: center;
+}
+.java{
+    text-align: center;
+}
+.html{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+}
+.mama{
+    text-decoration: none;
+    padding: 20px 40px;
+    background-image: linear-gradient(green, red);
+    color: white;
+    border-radius: 10px;
+}
+.last{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
 }
