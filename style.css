@@ -64,6 +64,7 @@ section{
     text-decoration: none;
     padding: 20px 40px;
     background-image: linear-gradient(green, red);
+    font-weight: 700;
     color: white;
     border-radius: 10px;
 }
